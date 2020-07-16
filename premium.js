@@ -148,7 +148,7 @@ SoundFiltersArray	= {
 '!oboost':'http://okaycool.africa/u/bruh/cj9AfOq8g3.mp3',
 '!jail': 'http://okaycool.africa/u/bruh/L7PYRQGX9z.mp3',
 '!poggers':'https://lagloyavi.ch/u/lag-2020.07.16-01.15.50.wav',
-'!b4nny':'https://lagloyavi.ch/u/lag-2020.07.16-01.15.19.mp3',
+'!b4nny':'https://lagloyavi.ch/u/lag-2020.07.16-01.25.01.mp3',
 '!stfu': 'http://okaycool.africa/u/bruh/FUNc2o74i6.mp3',
 '!popoff': 'http://okaycool.africa/u/bruh/cLHCtDw8XO.mp3',
 '!read': 'http://okaycool.africa/u/bruh/IDSL3XpKmo.mp3',
