@@ -152,7 +152,8 @@ SoundFiltersArray	= {
 '!stfu': 'http://okaycool.africa/u/bruh/FUNc2o74i6.mp3',
 '!popoff': 'http://okaycool.africa/u/bruh/cLHCtDw8XO.mp3',
 '!read': 'http://okaycool.africa/u/bruh/IDSL3XpKmo.mp3',
-'!yoo' : 'https://www.myinstants.com/media/sounds/yoooooooooooooooooooooooooooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.mp3'
+'!yoo' : 'https://www.myinstants.com/media/sounds/yoooooooooooooooooooooooooooohhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.mp3',
+'!didntask' : https://files.catbox.moe/kwvsot.mp3',	
 ,};
 
 FFactsArray		= [
