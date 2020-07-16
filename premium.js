@@ -141,11 +141,14 @@ FortunesArray		= [
 
 SoundFiltersArray	= {
 '!shut':'https://files.catbox.moe/j8py9t.ogg',
-'!badumtss':'https://www.myinstants.com/media/sounds/badumtsss.mp3',
 '!honk':'https://okaycool.africa/honk.mp3',
+'!caleb':'https://lagloyavi.ch/u/lag-2020.07.16-01.13.50.wav',
+'!tastealright':'https://lagloyavi.ch/u/lag-2020.07.16-01.14.59.wav',
 '!boost':'http://okaycool.africa/u/bruh/1NP0MeIZKj.mp3',
 '!oboost':'http://okaycool.africa/u/bruh/cj9AfOq8g3.mp3',
 '!jail': 'http://okaycool.africa/u/bruh/L7PYRQGX9z.mp3',
+'!poggers':'https://lagloyavi.ch/u/lag-2020.07.16-01.15.50.wav',
+'!b4nny':'https://lagloyavi.ch/u/lag-2020.07.16-01.15.19.mp3',
 '!stfu': 'http://okaycool.africa/u/bruh/FUNc2o74i6.mp3',
 '!popoff': 'http://okaycool.africa/u/bruh/cLHCtDw8XO.mp3',
 '!read': 'http://okaycool.africa/u/bruh/IDSL3XpKmo.mp3',
